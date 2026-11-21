@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png alt="Telegram Group Manager Bot" width="100%">
+  <img src="./banner.png alt="Telegram Group Manager Bot" width="100%">
 </p>
 
 # Telegram Group Manager Bot
