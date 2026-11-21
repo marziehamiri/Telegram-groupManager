@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" alt="Telegram Group Manager Bot" width="100%">
+</p>
+
 # Telegram Group Manager Bot
 
 A Telegram group management bot developed using Python and the `pyTelegramBotAPI` library. The bot provides basic group moderation features, including bad-word detection, warning management, member removal, and group-wide restriction controls.
