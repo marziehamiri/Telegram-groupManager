@@ -21,7 +21,7 @@ A Telegram group management bot developed using Python and the `pyTelegramBotAPI
 
 ## Requirements
 
-- Python 3.8+
+- Python 3.11+
 - Telegram Bot Token
 - `pyTelegramBotAPI`
 
